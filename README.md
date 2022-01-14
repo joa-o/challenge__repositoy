@@ -1,2 +1,2 @@
-# challenge__repositoy
+# challenge__repository
 
